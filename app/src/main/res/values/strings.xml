@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="famine">\"famine\"</string>
+    <string name="label_poid">Déterminez votre poids :</string>
+    <string name="label_poid2">Poids :</string>
+    <string name="label_taille">Déterminez votre taille :</string>
+    <string name="label_taille2">Taille :</string>
+    <string name="label_metre">Mètre</string>
+    <string name="label_centimetre">Centimètre</string>
+    <string name="label_appreciation">Appréciation</string>
+    <string name="label_calcul">Calculer l\'IMC</string>
+    <string name="label_reset">Reset</string>
+    <string name="label_resultat">Résultat :</string>
+    <string name="label_warning_clickBtnCalc">Vous devez cliquer sur le bouton « Calculer l\'IMC » pour obtenir un résultat.</string>
+    <string name="warning_sizePos">La taille doit être positive</string>
+    <string name="warning_weightPos">Le poids doit etre positif</string>
+    <string name="message_IMC">Votre IMC est</string>
+    <string name="message_apprec1">famine</string>
+    <string name="message_apprec2">maigreur</string>
+    <string name="message_apprec3">normal</string>
+    <string name="message_apprec4">surpoids</string>
+    <string name="message_apprec5">obesite modere</string>
+    <string name="message_apprec6">obesite severe</string>
+    <string name="message_apprec7">obesite morbide</string>
+
+</resources>
